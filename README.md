@@ -1,2 +1,2 @@
 # PatharOS
-Pathar Association
+Pathar Association Inc.
